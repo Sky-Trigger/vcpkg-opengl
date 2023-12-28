@@ -5,3 +5,6 @@ OPENGL, OPENVDB and other libraries are included, so you don't need to download 
 
 Merge the downloads folder from the zip file with the downloads folder from the VCPKG directory on your computer.
 Then use the statement: vcpkg integrate install
+
+Link: https://pan.baidu.com/s/1-jSYP5v4nvC9gZ5E_CIz7w
+Extract code: 8080
